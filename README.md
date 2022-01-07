@@ -1,4 +1,4 @@
-# _My first solo HTML and CSS website with Epicodus_
+# _My first independent project with Epicodus_
 
 #### By _**Kevin Williams**_
 
@@ -12,8 +12,8 @@
 ## Description
 
 _Welcome to the first independent project by Kevin Williams as a
-student at [Epicodus](https://epicodus.com)!
-  
+student at [Epicodus](https://epicodus.com)!_
+
 [Here is the
 lesson](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/git-html-and-css-independent-project)
 from [the curriculum](https://learnhowtoprogram.com) where I made this
