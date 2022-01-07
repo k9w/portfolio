@@ -8,8 +8,15 @@ padding
 
 */
 
-.consolas {
-    font-family: Consolas;
+body {
+    background: #242526;
+    color: #FAF9F6;
+    font-family: sans-serif;
+}
+
+a {
+    color: #30D5C8;
+
 }
 
 img {
