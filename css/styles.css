@@ -30,3 +30,7 @@ img {
 .about-section {
     font-family: courier;
 }
+
+.italic {
+    font-style: italic;
+}
