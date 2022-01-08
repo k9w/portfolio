@@ -22,3 +22,11 @@ a {
 img {
     float: right;
 }
+
+.top-section {
+    font-family: monospace;
+}
+
+.about-section {
+    font-family: courier;
+}
