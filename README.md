@@ -17,8 +17,7 @@ student at [Epicodus](https://epicodus.com)!_
 [Here is the
 lesson](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/git-html-and-css-independent-project)
 from [the curriculum](https://learnhowtoprogram.com) where I made this
-page on Friday January 7th 2022. I hope you enjoy it and that you'll
-checkout more of my work at:
+page on Friday January 7th 2022. Check out more of my work at:
 
  * https://github.com/k9w
 
