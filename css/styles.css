@@ -1,36 +1,32 @@
-/*
-
-use typography styles, the box model (including margin, border, and padding), and floats
-
-margin
-border
-padding
-
-*/
-
 body {
-    background: #242526;
-    color: #FAF9F6;
-    font-family: sans-serif;
+  background: #242526;
+  color: #FAF9F6;
+  font-family: sans-serif;
+  margin: auto;
+  width: 80%;
 }
 
 a {
-    color: #30D5C8;
-
+  color: #30D5C8;
 }
 
 img {
-    float: right;
+  float: right;
+  border: 1px solid white;
+}
+
+button {
+  padding: 0px;
 }
 
 .top-section {
-    font-family: monospace;
+  font-family: monospace;
 }
 
 .about-section {
-    font-family: courier;
+  font-family: courier;
 }
 
 .italic {
-    font-style: italic;
+  font-style: italic;
 }
