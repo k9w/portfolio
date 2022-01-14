@@ -22,6 +22,9 @@ a {
 img {
   float: right;
   border: 1px solid white;
+  display: block;
+  margin: auto;
+  width: 70%;
 }
 
 button {
